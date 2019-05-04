@@ -1,0 +1,13 @@
+Package: com.GodsTweaks.Cylinder
+Version: 0.14.3.16
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.GodsTweaks.Cylinder.deb
+Size: 515576
+MD5sum: B98CF1AF3123610DAE3D394416CB3446
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Cylinder
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://the1primeyt.github.io/r3p0/depictions/?p=com.GodsTweaks.Cylinder
